@@ -1,0 +1,22 @@
+{
+    "name": "张金叶",
+    "short_name": "张金叶",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "description": "张金叶的个人主页",
+    "theme_color": "blue",
+    "icons": [{
+        "src": "./images/hero.jpg",
+        "sizes": "144x144",
+        "type": "image/jpeg"
+    }],
+    "related_applications": [{
+            "platform": "chrome_web_store"
+        },
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+        }
+    ]
+}
